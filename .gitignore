@@ -1,2 +1,4 @@
 .idea/
 .env
+wp-admin/
+wp-includes/
