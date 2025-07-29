@@ -2,3 +2,11 @@
 .env
 wp-admin/
 wp-includes/
+wp-content/plugins/advanced-import/*
+wp-content/plugins/akismet/*
+wp-content/plugins/classic-widgets/*
+wp-content/plugins/olympus-google-fonts/*
+wp-content/plugins/woocommerce
+wp-content/plugins/woocommerce_payment_module-2.6.14/*
+wp-content/themes/*
+wp-content/uploads/*
